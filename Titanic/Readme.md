@@ -1,5 +1,7 @@
 # EDA on Titanic Data-Set
-<img align="center" src="https://github.com/Mohan-Gupta/EDA/blob/main/Titanic/Figures/Titanic.jpg">
+<p align="center">
+<img src="https://github.com/Mohan-Gupta/EDA/blob/main/Titanic/Figures/Titanic.jpg">
+ </p>
 In This Project, I will do Exploratory Data Analysis on Titanic DataSet<br>
 In the Jupyter Notebook you can find the code and the detailed exploration of dataset.<br>
 Here are some of the results of my analysis
