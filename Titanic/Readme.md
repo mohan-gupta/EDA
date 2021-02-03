@@ -13,10 +13,12 @@ We can see that most of the passengers were between the age 20-40.<br>
 Most of the Male Passengers around 83.70% could not survive while 42.03% children could not survive<br>
 <img src="https://github.com/Mohan-Gupta/EDA/blob/main/Titanic/Figures/FamilyMembers.png">
 For Passengers with 1-3 Family Members the ratio to Survived and Not Survived is higher while<br>For others this
- ratio Not Survived to Survived is higher<br>
- <img src="https://github.com/Mohan-Gupta/EDA/blob/main/Titanic/Figures/ClassSurvHeatmap.png">
- Majority of the Passengers of Class 2 and 3 could not survive<br>
- <img src="https://github.com/Mohan-Gupta/EDA/blob/main/Titanic/Figures/EmbarkBar.png">
- Ratio of Survived to Not Survived is higher only for the passengers who embarked from Cherbourg
+ratio Not Survived to Survived is higher<br>
+<img src="https://github.com/Mohan-Gupta/EDA/blob/main/Titanic/Figures/ClassSurvHeatmap.png">
+Majority of the Passengers of Class 2 and 3 could not survive<br>
+<img src="https://github.com/Mohan-Gupta/EDA/blob/main/Titanic/Figures/EmbarkBar.png">
+Ratio of Survived to Not Survived is higher only for the passengers who embarked from Cherbourg
+<b>We can conclude that a Female Passenger with 1-3 Family Members of Class 1 embarked from Cherbourg<br>
+have a much greater chance of being survived than the rest passengers<b>
  
  <br><br>If you like my Analysis than do give this repo a star.
