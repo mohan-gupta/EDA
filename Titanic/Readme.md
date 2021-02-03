@@ -17,8 +17,8 @@ ratio Not Survived to Survived is higher<br>
 <img src="https://github.com/Mohan-Gupta/EDA/blob/main/Titanic/Figures/ClassSurvHeatmap.png">
 Majority of the Passengers of Class 2 and 3 could not survive<br>
 <img src="https://github.com/Mohan-Gupta/EDA/blob/main/Titanic/Figures/EmbarkBar.png">
-Ratio of Survived to Not Survived is higher only for the passengers who embarked from Cherbourg
+Ratio of Survived to Not Survived is higher only for the passengers who embarked from Cherbourg.<br>
 <b>We can conclude that a Female Passenger with 1-3 Family Members of Class 1 embarked from Cherbourg<br>
-have a much greater chance of being survived than the rest passengers<b>
+have a much greater chance of being survived than the rest passengers.<b>
  
  <br><br>If you like my Analysis than do give this repo a star.
