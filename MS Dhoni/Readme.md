@@ -3,6 +3,7 @@
 <img src="https://gumlet.assettype.com/thebridgechronicle%2Fimport%2Fs3fs-public%2Fnews-story%2Fcover-images%2F4Dhoni_F_3.jpg?w=1200&auto=format%2Ccompress&ogImage=true">
  </p>
 In This Project, I have done Exploratory Data Analysis on MS dhoni's ODI Batting Career<br>
+For visualization I have used Plotly in this Project.<br>
 In the Jupyter Notebook you can find the code and the detailed exploration of dataset.<br>
 Here are some of the results of my analysis.<br><br>
 
