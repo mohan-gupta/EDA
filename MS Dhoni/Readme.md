@@ -4,35 +4,35 @@
  </p>
 In This Project, I have done Exploratory Data Analysis on MS dhoni's ODI Batting Career<br>
 In the Jupyter Notebook you can find the code and the detailed exploration of dataset.<br>
-Here are some of the results of my analysis<br>
+Here are some of the results of my analysis.<br><br>
 
 <img src="https://github.com/Mohan-Gupta/EDA/blob/main/MS%20Dhoni/Plots/Run%20Bucket.png">
-<br>It can be seen that most of the times he has scored runs between 0-60,<br>
+It can be seen that most of the times he has scored runs between 0-60,<br>
 This is due to the reason that he has batted at 4th to 6th position in his career,<br>
-Also when he came early to bat he has scored some 100s and also converted those 100s to 150s and more.<br>
+Also when he came early to bat he has scored some 100s and also converted those 100s to 150s and more.<br><br>
 
 <img src="https://github.com/Mohan-Gupta/EDA/blob/main/MS%20Dhoni/Plots/How%20Got%20Out%20(Pie%20Chart).png">
-<br>46.5% of times he got caught in his ODI career while remained not out for 28.3% of the times.<br>
+46.5% of times he got caught in his ODI career while remained not out for 28.3% of the times.<br><br>
 
 <img src="https://github.com/Mohan-Gupta/EDA/blob/main/MS%20Dhoni/Plots/Total%20Runs%20(opponents).png">
-<br>Hence, it can be observed his favourite teams(on the basis of runs scored) are Sri Lanka, Australia and England as opponent<br>
-Against some teams he has not scored too many runs cause he has not played a lot of games against them<br>
+Hence, it can be observed his favourite teams(on the basis of runs scored) are Sri Lanka, Australia and England as opponent<br>
+Against some teams he has not scored too many runs cause he has not played a lot of games against them<br><br>
 
 <img src="https://github.com/Mohan-Gupta/EDA/blob/main/MS%20Dhoni/Plots/Total%20Runs%20(Ground).png">
-<br>Although he has scored highest runs against Sri Lanka<br> 
-However, he has scored highest runs on Shere Bangla National Stadium in Bangladesh<br>.
+Although he has scored highest runs against Sri Lanka<br> 
+However, he has scored highest runs on Shere Bangla National Stadium in Bangladesh.<br><br>
 
 <img src="https://github.com/Mohan-Gupta/EDA/blob/main/MS%20Dhoni/Plots/Batting%20Avg.png">
- <br>Since his debut he has increased his batting average significantly and maintained it around 50,<br>
- which is exceptional provided his batting position<br>
+ Since his debut he has increased his batting average significantly and maintained it around 50,<br>
+ which is exceptional provided his batting position<br><br>
  
 <img src="https://github.com/Mohan-Gupta/EDA/blob/main/MS%20Dhoni/Plots/Avg%20SR%20(opponents).png">
-<br>Ratio of Survived to Not Survived is higher only for the passengers who embarked from Cherbourg.<br>
-He has got a descent Strike Rate against all these teams with Highest against West Indies.<br>
+Ratio of Survived to Not Survived is higher only for the passengers who embarked from Cherbourg.<br>
+He has got a descent Strike Rate against all these teams with Highest against West Indies.<br><br>
 
 <img src="https://github.com/Mohan-Gupta/EDA/blob/main/MS%20Dhoni/Plots/Avg%20SR%20(Grounds).png">
-<br>He Has got whopping Strike Rate of 230 in BangaBandhu National Stadium.<br>
-In Terms of Big Hitting his favourite grounds to Play at are Bangabandhu National Stadiums, Gaddafi Stadium, Nehru Stadium, Barbourne Stadium.<br>
+He Has got whopping Strike Rate of 230 in BangaBandhu National Stadium.<br>
+In Terms of Big Hitting his favourite grounds to Play at are Bangabandhu National Stadiums, Gaddafi Stadium, Nehru Stadium, Barbourne Stadium.<br><br>
 
 <img src="https://github.com/Mohan-Gupta/EDA/blob/main/MS%20Dhoni/Plots/Teams%20and%20How%20Dismissed.png">
 <br>
