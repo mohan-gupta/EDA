@@ -37,7 +37,7 @@ In Terms of Big Hitting his favourite grounds to Play at are Bangabandhu Nationa
 
 <img src="https://github.com/Mohan-Gupta/EDA/blob/main/MS%20Dhoni/Plots/Teams%20and%20How%20Dismissed.png">
 <br>
-<img src="https://github.com/Mohan-Gupta/EDA/blob/main/MS%20Dhoni/Plots/ODI%20Summary.png">
+
 
 ## Note
 If you find trouble viewing this notebook on github then switch to this [Link](https://nbviewer.jupyter.org/github/Mohan-Gupta/EDA/blob/main/MS%20Dhoni/MS%20Dhoni.ipynb)
