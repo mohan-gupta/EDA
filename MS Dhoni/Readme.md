@@ -46,7 +46,7 @@ Maximum he has scored 2 centuries against Australia, Pakistan and Sri Lanka.<br>
 
 
 ## Note
-<b>If you find trouble viewing this notebook on github then switch to this [Link](https://nbviewer.jupyter.org/github/Mohan-Gupta/EDA/blob/main/MS%20Dhoni/MS%20Dhoni.ipynb)</b>
+<b>If you find trouble viewing this notebook on github then switch to this [Link](https://nbviewer.jupyter.org)</b>
 
  
  <br><br>If you like my Analysis than do give this repo a star.
