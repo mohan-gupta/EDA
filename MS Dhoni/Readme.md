@@ -35,12 +35,18 @@ He has got a descent Strike Rate against all these teams with Highest against We
 He Has got whopping Strike Rate of 230 in BangaBandhu National Stadium.<br>
 In Terms of Big Hitting his favourite grounds to Play at are Bangabandhu National Stadiums, Gaddafi Stadium, Nehru Stadium, Barbourne Stadium.<br><br>
 
+<img src ="https://github.com/Mohan-Gupta/EDA/blob/main/MS%20Dhoni/Plots/50sand100s.png">
+He Has Scored Total 20 Half-centuries against Sri-Lanka his highest against any team<br>
+Maximum he has scored 2 centuries against Australia, Pakistan and Sri Lanka.<br><br>
+
 <img src="https://github.com/Mohan-Gupta/EDA/blob/main/MS%20Dhoni/Plots/Teams%20and%20How%20Dismissed.png">
+<br>
+<img src = "https://github.com/Mohan-Gupta/EDA/blob/main/MS%20Dhoni/Plots/ODI%20Summary.png">
 <br>
 
 
 ## Note
-If you find trouble viewing this notebook on github then switch to this [Link](https://nbviewer.jupyter.org/github/Mohan-Gupta/EDA/blob/main/MS%20Dhoni/MS%20Dhoni.ipynb)
+<b>If you find trouble viewing this notebook on github then switch to this [Link](https://nbviewer.jupyter.org/github/Mohan-Gupta/EDA/blob/main/MS%20Dhoni/MS%20Dhoni.ipynb)</b>
 
  
  <br><br>If you like my Analysis than do give this repo a star.
