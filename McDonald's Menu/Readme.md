@@ -8,8 +8,9 @@ most famous menu items – like the Big Mac, Filet-O-Fish, and Egg McMuffin – 
 Link to the [dataset](https://www.kaggle.com/mcdonalds/nutrition-facts).<br>
 Here are some of the facts that I discovered:<br>
 
+Data Distribution
 <img src ="https://github.com/Mohan-Gupta/EDA/blob/main/McDonald's%20Menu/Plots/datadist.png">
-Data Distribution<br><br>
+<br><br>
 
 <img src="https://github.com/Mohan-Gupta/EDA/blob/main/McDonald's%20Menu/Plots/CategoryPie.png">
 <p>Hence, it can be observed that most of the McDonald's menu is occupied by Coffe&Tea then by Breakfast with a contribution of 36.5% and 16.2% respectively.<br>
