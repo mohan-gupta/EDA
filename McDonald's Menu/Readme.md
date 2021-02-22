@@ -40,11 +40,11 @@ While all other categories have very low sugar compared to them</p><br><br>
 <br><br>
 
 <img src="https://github.com/Mohan-Gupta/EDA/blob/main/McDonald's%20Menu/Plots/bevgCals.png">
-<b><p>In beverages, Sprite(Large), Dr.Pepper(Large),Coca-Cola Classic(Large) have the maximum claories,<br>
+<p>In beverages, Sprite(Large), Dr.Pepper(Large),Coca-Cola Classic(Large) have the maximum claories,<br>
 while all the diet drinks have 0 calorie.</p><br><br>
   
  <img src="https://github.com/Mohan-Gupta/EDA/blob/main/McDonald's%20Menu/Plots/GrilledVsCrispy.png">
-<b><p>Takeaways from the above plot,<br>
+<p>Takeaways from the above plot,<br>
 Grilled Chicken Sandwich is more healthy than the crispy chicken sandwich.<br>
 It has less Calories, less Fats, more Vitamins, more Protein and more Calcium and Iron<br>
 However, Grilled Chicken Sandwich has more cholesterol than the Crispy one.
