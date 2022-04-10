@@ -1,7 +1,7 @@
 # Spotify Song Popularity EDA
 
-<img src="https://github.com/mohan-gupta/EDA/blob/main/Spotify%20song%20Popularity/plots/Spotify.jpg">
-For this project, I have gathered data from Spotify web API.
+<img src="https://github.com/mohan-gupta/EDA/blob/main/Spotify%20song%20Popularity/plots/Spotify.jpg"><br>
+For this project, I have gathered data from Spotify web API.<br>
 [Spotipy](https://spotipy.readthedocs.io/en/2.19.0/) is a python library for making API calls to Spotify which makes the task al little easier.
 
 ### Data Collection Process
