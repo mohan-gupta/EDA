@@ -107,3 +107,4 @@ In musical terminology, tempo is the speed or pace of a given piece and derives 
 <b>Lil Nas X, Marshmello and Fall Out Boy have higher tempo in their songs</b>
 <br><br>
 
+To checkout the code refer to the [notebook](http://nbviewer.org/github/mohan-gupta/EDA/blob/main/Spotify%20song%20Popularity/Spotify%20song%20popularity.ipynb)
