@@ -9,7 +9,7 @@ Here you will find my work for E.D.A on different Datasets.
 
 <p align="center">
   <img width="800" height="500" src="https://github.com/mohan-gupta/EDA/blob/main/Thumbnails/MS%20Dhoni.png">
-</p>br
+</p><br>
 
 [MS Dhoni ODI Batting Career EDA.](https://github.com/Mohan-Gupta/EDA/tree/main/MS%20Dhoni)<br><br>
 
