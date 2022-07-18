@@ -1,6 +1,6 @@
 # Nutritionla Facts of McDonalds Menu
 
-<img src="https://raw.githubusercontent.com/mohan-gupta/EDA/main/McDonald's%20Menu/Plots/McDonalds.webp" width="800" height="1000"><br><br>
+<img src="https://raw.githubusercontent.com/mohan-gupta/EDA/main/McDonald's%20Menu/Plots/McDonalds.webp" width="1100" height="700"><br><br>
 
 <b>In The Notebook you will find Exploration of McDonald's Menu, I have picked this data from Kaggle and<br>
 I have tried to answer some of the questions mentioned with this dataset.</b><br>
