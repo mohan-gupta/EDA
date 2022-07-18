@@ -1,5 +1,10 @@
-<b>In This Notebook you will find Exploration of McDonald's Menu, I have picked this data from Kaggle and<br>
+# Nutritionla Facts of McDonalds Menu
+
+<img src="https://raw.githubusercontent.com/mohan-gupta/EDA/main/McDonald's%20Menu/Plots/McDonalds.webp"><br><br>
+
+<b>In The Notebook you will find Exploration of McDonald's Menu, I have picked this data from Kaggle and<br>
 I have tried to answer some of the questions mentioned with this dataset.</b><br>
+
 ## Context
 Ray Kroc wanted to build a restaurant system that would be famous for providing food of consistently high quality and uniform methods of preparation.<br>
 He wanted to serve burgers, buns, fries and beverages that tasted just the same in Alaska as they did in Alabama. To achieve this, he chose a unique path:<br>
