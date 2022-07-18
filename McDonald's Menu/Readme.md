@@ -1,4 +1,4 @@
-# Nutritionla Facts of McDonalds Menu
+# Nutritional Facts of McDonalds Menu
 
 <img src="https://raw.githubusercontent.com/mohan-gupta/EDA/main/McDonald's%20Menu/Plots/McDonalds.webp" width="1000" height="600"><br><br>
 
