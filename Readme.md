@@ -2,7 +2,7 @@
 Here you will find my work for E.D.A on different Datasets.
 
 <p align="center">
-  <img width="800" height="500" src="https://github.com/mohan-gupta/EDA/blob/main/Thumbnails/Spotify.png">
+  <img width="800" height="500" src="Thumbnails/Spotify.png">
 </p><br>
 
 [EDA on Spotify Song Popularity](https://github.com/mohan-gupta/EDA/tree/main/Spotify%20song%20Popularity)<br><br>
